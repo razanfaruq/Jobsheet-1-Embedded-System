@@ -15,7 +15,6 @@ ESP-32 adalah mikrokontroler yang dikenalkan oleh Espressif System merupakan pen
 6) LED (5) dan Push Button (3)
 7) Multimeter
 8) Resistor 330,1K, 10K Ohm (@ 3)
-
 #### III. Langkah Percobaan
 
 
